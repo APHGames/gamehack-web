@@ -1,0 +1,15 @@
+$font-size-small: clamp(10px, 2vw, 16px);
+$font-size-normal: clamp(14px, 2vw, 20px);
+$font-size-large: clamp(18px, 2vw, 24px);
+$font-size-llarge: clamp(22px, 2vw, 32px);
+$font-size-xlarge: clamp(30px, 2vw, 46px);
+$font-size-xxlarge: clamp(40px, 2vw, 64px);
+$font-size-xxxlarge: clamp(56px, 2vw, 80px);
+
+/* MonoSpace */
+@font-face {
+	font-family: "Inconsolata";
+	src: url("/fonts/Inconsolata.otf");
+	font-weight: normal;
+	font-style: normal;
+}
