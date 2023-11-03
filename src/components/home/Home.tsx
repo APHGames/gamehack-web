@@ -125,6 +125,21 @@ const Companies = () => {
 	)
 }
 
+const Trailer = () => {
+	return (
+		<S.Section>
+			<S.SectionContainer>
+				<S.Vertical>
+					<h3>Trailer</h3>
+					<div>
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/wTB9ZT3xcOU?si=iCUGYsv-F8SkPd0Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>			
+					</div>
+				</S.Vertical>
+			</S.SectionContainer>
+		</S.Section>
+	)
+}
+
 const Sponsors = () => {
 	return (
 		<S.Section>
@@ -158,6 +173,7 @@ export const Home = () => {
 				<main>
 					<Parallax isMobile={device == 'mobile'} />
 					<Companies />
+					<Trailer />
 					<Welcome />
 					<Programme />
 					<Sponsors />
