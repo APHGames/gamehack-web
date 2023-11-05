@@ -29,14 +29,39 @@ export const MainRules = () => (
 					</ul>
 					<h3>Pravidla pro odevzdávání</h3>
 					<ul>
-						<li>Hra musí být odevzdaná na platformě itch.io. Odkaz na konkrétní stránku bude zveřejněn před začátkem akce.</li>
-						<li>Autoři hry musí mít práva či licence na všechny části hry, aby splnili licenční podmínky pro veřejné vystavení na platformě itch.io.</li>
+						<li>Hra musí být odevzdaná na platformě <a href="https://itch.io">itch.io</a>. Odkaz na konkrétní stránku bude zveřejněn před začátkem akce.</li>
+						<li>Autoři hry musí mít práva či licence na všechny části hry, aby splnili licenční podmínky pro veřejné vystavení.</li>
 						<li>Hra musí být odevzdaná v termínu, který je vypsán v programu akce.</li>
 						<li>Odevzdaná hra musí obsahovat binární soubory hry, několik vhodných screenshotů a krátký popis. Trailer či záznam z gameplaye je vřele vítán.</li>
 					</ul>
+					<h3>Zadání</h3>
+					<ul>
+						<li>
+							Zadání budou tvořit tři témata a tři modifikátory, přičemž jeden od každého bude zveřejněn během týdne před začátkem akce. Autoři budou muset zapracovat dvě témata a dva modifikátory do svých her. Podrobnosti budou vysvětleny na našem Discordu.
+						</li>
+					</ul>
 					<h3>Pravidla pro hodnocení</h3>
 					<ul>
-						<li>Bude doplněno později (stále to namýšlíme).</li>
+						<li>Hodnocení proběhne celý následující týden po skončení akce na platformě itch.io. Na škále 1-5 budou hodnoceny následující aspekty:</li>
+						<ul>
+							<li>Použití tématu č. 1</li>
+							<li>Použití tématu č. 2</li>
+							<li>Použití modifikátoru č. 1</li>
+							<li>Použití modifikátoru č. 2</li>
+							<li>Zábavnost</li>
+							<li>Gameplay</li>
+							<li>Originalita</li>
+							<li>Smysl</li>
+							<li>Grafika</li>
+							<li>Hudba a zvuky</li>
+						</ul>
+						<li>Celkový výsledek bude váženým součtem hodnocení všech aspektů.</li>
+					</ul>
+					<h3>Ceny</h3>
+					<ul>
+						<li>Z organizačních důvodů budou ceny rozděleny již na konci akce před začátkem online hlasování.</li>
+						<li>Každý z organizátorů si vybere svou oblíbenou hru a autorskému týmu předá nějaké ceny.</li>
+						<li>Každý účastník si pak navíc bude moci vybrat jednu hru z balíku kartiček se STEAM kódem.</li>
 					</ul>
 				</S.KFrame>
 			</S.CardContainer>

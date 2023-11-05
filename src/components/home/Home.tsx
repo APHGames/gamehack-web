@@ -31,7 +31,7 @@ const Welcome = () => (
 					<h3>Pátek 17.11. - Neděle 19.11. 2023</h3>
 					<p>Dobrodruhu, ač samotný či s družinou, zveme Tě, aby ses připojil k našemu podzimnímu rituálu tvorby počítačových her. Dobře si rozpočti čas dvou slunečních cyklů, zužitkuj všechny nástroje, ve kterých najdeš zalíbení a zkrášli svůj výtvor svými koncepty, aby je mohl celý ansámbl obdivovat. Nechť právě Tvá kompozice bude legendou všech dimenzí.</p>
 					<p>Zkušení průvodci Ti budou nablízku a poskytnou Tobě i Tvé družině cenné rady k vaší tvorbě.</p>
-					<p>Konání tohoto rituálu se uskuteční v prostorách FIT ČVUT, jmenovitě na Thákurově 9 TH:A-1455  v nejšlechetnějším městě planety Země, Praze. Bude zde dostatek zábavy, různorodých jídel i místa pro odpočinek.</p>
+					<p>Konání této sešlosti se uskuteční v prostorách FIT ČVUT, jmenovitě na Thákurově 9 TH:A-1455 v Praze. Bude zde dostatek zábavy, různorodých jídel i místa pro odpočinek.</p>
 					<p>Zapiš se do <a href="https://docs.google.com/forms/d/e/1FAIpQLSe3Ibul6fe5UUTwg0rBvLKUpH4GIHrG_OI_ochp5K83OG1YCw/viewform?usp=sf_link">registru účastníků</a>, dostav se na náš <a href="https://discord.gg/G5MbV8Ex77">Discord</a> a připrav se na zdolání nových výzev.</p>
 				</S.KFrame>
 				<S.Sleepover>
@@ -66,6 +66,9 @@ const Programme = () => {
 
 								<div>20:00</div>
 								<div>Budova se zavírá</div>
+
+								<div>21:00</div>
+								<div>Lanparty v ggLabu</div>
 							</S.Agenda>
 						</S.Frame>
 						<S.Frame $width={'320px'}>
@@ -83,12 +86,12 @@ const Programme = () => {
 								<div>20:00</div>
 								<div>Budova se zavírá</div>
 
-								<div>0:00</div>
+								<div>21:00</div>
 								<div>Lanparty v ggLabu</div>
 							</S.Agenda>
 						</S.Frame>
 						<S.Frame $width={'320px'}>
-							<h3>Neděle 19.17.</h3>
+							<h3>Neděle 19.11.</h3>
 							<S.Agenda>
 								<div>8:00</div>
 								<div>Budova se otevírá</div>
