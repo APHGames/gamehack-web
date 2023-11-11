@@ -24,7 +24,7 @@ export const MainRules = () => (
 						<li>Hra musí být vytvořena jen členy týmu, kteří se účastní akce.</li>
 						<li>Vývoj hry musí probíhat pouze během stanovené doby. V případě pozdního odevzdání bude daný tým vyjmut z hodnocení porotou, bude však mít stále možnost prototyp hry odprezentovat.</li>
 						<li>Programy třetích stran pro vývoj her a herních assetů je možno použít jen pokud má účastník licenci pro jejich použití.</li>
-						<li>Je možno použít pouze ty assety, které jsou veřejně přístupné (tedy assety pod licencemi public domain, MIT, LGPL, CC, atp.) Není možné využít placené assety ani assety vytvořené před začátkem akce. Toto se týká i knihoven.</li>
+						<li>Je možno použít pouze ty assety, které jsou veřejně přístupné (tedy assety pod licencemi public domain, MIT, LGPL, CC, atp.) Není možné využít placené assety ani assety vytvořené účastníky před začátkem akce. Toto se týká i knihoven, které budou součástí výsledného buildu.</li>
 						<li>Výsledná hra je autorským dílem týmu a Fakultě informačních technologií ČVUT nevznikají žádná autorská práva.</li>
 					</ul>
 					<h3>Pravidla pro odevzdávání</h3>
@@ -44,10 +44,8 @@ export const MainRules = () => (
 					<ul>
 						<li>Hodnocení proběhne celý následující týden po skončení akce na platformě itch.io. Na škále 1-5 budou hodnoceny následující aspekty:</li>
 						<ul>
-							<li>Použití tématu č. 1</li>
-							<li>Použití tématu č. 2</li>
-							<li>Použití modifikátoru č. 1</li>
-							<li>Použití modifikátoru č. 2</li>
+							<li>Použití témat</li>
+							<li>Použití modifikátorů</li>
 							<li>Zábavnost</li>
 							<li>Gameplay</li>
 							<li>Originalita</li>
@@ -59,7 +57,7 @@ export const MainRules = () => (
 					</ul>
 					<h3>Ceny</h3>
 					<ul>
-						<li>Z organizačních důvodů budou ceny rozděleny již na konci akce před začátkem online hlasování.</li>
+						<li>Z organizačních důvodů budou ceny rozděleny již na konci akce (v neděli 19.11.) před začátkem online hlasování.</li>
 						<li>Každý z organizátorů si vybere svou oblíbenou hru a autorskému týmu předá nějaké ceny.</li>
 						<li>Každý účastník si pak navíc bude moci vybrat jednu hru z balíku kartiček se STEAM kódem.</li>
 					</ul>
