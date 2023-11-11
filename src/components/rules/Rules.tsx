@@ -11,7 +11,7 @@ export const MainRules = () => (
 				<S.KFrame>
 					<h3>Pravidla pro účast</h3>
 					<ul>
-						<li>GameHacku se může účastnit pouze osoba starší 18ti let.</li>
+						<li>GameHacku se může účastnit pouze osoba starší 18 let.</li>
 						<li>Svou účastí účastník souhlasí s pořizováním a sdílením audiovizuálního materiálu pro PR účely, včetně pořizování záznamů z gameplaye či screenshotů her pro vystavení na veřejných kanálech fakulty a skupiny APHGames.</li>
 						<li>Účastník se může zúčastnit buďto samostatně nebo jako tým. Tým může mít 1-6 členů.</li>
 						<li>Je potřeba, aby alespoň jeden člen týmu byl prezenčně přítomen během pořádání akce, vyjma večerních hodin, kdy je budova ve zvláštním režimu.</li>
@@ -37,7 +37,7 @@ export const MainRules = () => (
 					<h3>Zadání</h3>
 					<ul>
 						<li>
-							Zadání budou tvořit tři témata a tři modifikátory, přičemž jeden od každého bude zveřejněn během týdne před začátkem akce. Autoři budou muset zapracovat dvě témata a dva modifikátory do svých her. Podrobnosti budou vysvětleny na našem Discordu.
+							Zadání budou tvořit tři témata a tři modifikátory, přičemž jeden od každého bude zveřejněn během týdne před začátkem akce. Autoři budou muset zapracovat dvě témata a dva modifikátory do svých her. Podrobnosti budou vysvětleny na našem <a href="https://discord.com/invite/qDZJ8QM4mz">Discordu</a>.
 						</li>
 					</ul>
 					<h3>Pravidla pro hodnocení</h3>
