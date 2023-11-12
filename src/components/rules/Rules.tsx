@@ -26,19 +26,21 @@ export const MainRules = () => (
 						<li>Programy třetích stran pro vývoj her a herních assetů je možno použít jen pokud má účastník licenci pro jejich použití.</li>
 						<li>Je možno použít pouze ty assety, které jsou veřejně přístupné (tedy assety pod licencemi public domain, MIT, LGPL, CC, atp.) Není možné využít placené assety ani assety vytvořené účastníky před začátkem akce. Toto se týká i knihoven, které budou součástí výsledného buildu.</li>
 						<li>Výsledná hra je autorským dílem týmu a Fakultě informačních technologií ČVUT nevznikají žádná autorská práva.</li>
+						<li>Hra může být vydána v českém, slovenském nebo anglickém jazyce.</li>
 					</ul>
 					<h3>Pravidla pro odevzdávání</h3>
 					<ul>
 						<li>Hra musí být odevzdaná na platformě <a href="https://itch.io">itch.io</a>. Odkaz na konkrétní stránku bude zveřejněn před začátkem akce.</li>
 						<li>Autoři hry musí mít práva či licence na všechny části hry, aby splnili licenční podmínky pro veřejné vystavení.</li>
 						<li>Hra musí být odevzdaná v termínu, který je vypsán v programu akce.</li>
-						<li>Odevzdaná hra musí obsahovat binární soubory hry, několik vhodných screenshotů a krátký popis. Trailer či záznam z gameplaye je vřele vítán.</li>
+						<li>Odevzdaná hra musí obsahovat binární soubory hry, několik vhodných screenshotů a krátký popis. Trailer či záznam z gameplaye je přáním, není však vyžadován.</li>
 					</ul>
 					<h3>Zadání</h3>
 					<ul>
 						<li>
-							Zadání budou tvořit tři témata a tři modifikátory, přičemž jeden od každého bude zveřejněn během týdne před začátkem akce. Autoři budou muset zapracovat dvě témata a dva modifikátory do svých her. Podrobnosti budou vysvětleny na našem <a href="https://discord.com/invite/qDZJ8QM4mz">Discordu</a>.
+							Zadání budou tvořit tři témata a tři modifikátory, přičemž jeden od každého bude zveřejněn během týdne před začátkem akce.
 						</li>
+						<li>Autoři budou muset zapracovat dvě témata a dva modifikátory do svých her. Podrobnosti budou vysvětleny na našem <a href="https://discord.com/invite/qDZJ8QM4mz">Discordu</a>.</li>
 					</ul>
 					<h3>Pravidla pro hodnocení</h3>
 					<ul>
@@ -53,13 +55,15 @@ export const MainRules = () => (
 							<li>Grafika</li>
 							<li>Hudba a zvuky</li>
 						</ul>
+						<li>Hodnotit mohou jak účastníci akce, tak organizátoři.</li>
 						<li>Celkový výsledek bude váženým součtem hodnocení všech aspektů.</li>
+						<li>Organizátoři se zavazují, že ke každé hře napíšou alespoň jednu krátkou recenzi na platformě itch.io</li>
 					</ul>
 					<h3>Ceny</h3>
 					<ul>
 						<li>Z organizačních důvodů budou ceny rozděleny již na konci akce (v neděli 19.11.) před začátkem online hlasování.</li>
-						<li>Každý z organizátorů si vybere svou oblíbenou hru a autorskému týmu předá nějaké ceny.</li>
-						<li>Každý účastník si pak navíc bude moci vybrat jednu hru z balíku kartiček se STEAM kódem.</li>
+						<li>Každý z organizátorů bude mít možnost zvolit vítěznou hru dle vlastních kritérií a autorskému týmu předá nějaké ceny.</li>
+						<li>Drobné ceny jako steam kódy, brožurky, trička a plakáty budou následně předány k rozebrání všem účastníkům akce.</li>
 					</ul>
 				</S.KFrame>
 			</S.CardContainer>
