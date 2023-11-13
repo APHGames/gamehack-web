@@ -2,7 +2,7 @@ import React from 'react';
 import * as S from './Home.styles';
 import { useEffect, useState } from 'react';
 
-const GAMEHACK_START = 'Nov 17, 2023 13:00:00';
+const GAMEHACK_START = 'Nov 17, 2023 13:30:00';
 
 export const Countdown = () => {
 

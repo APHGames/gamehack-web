@@ -58,7 +58,7 @@ const Programme = () => {
 								<div>12:30</div>
 								<div>Úvodní slovo</div>
 
-								<S.Highlight>13:00</S.Highlight>
+								<S.Highlight>13:30</S.Highlight>
 								<S.Highlight>Začátek programování</S.Highlight>
 
 								<div>17:00</div>
@@ -80,14 +80,14 @@ const Programme = () => {
 								<div>12:00</div>
 								<div>Game Kvíz</div>
 
-								<div>17:30</div>
-								<div>Deskovky a jiná zábava</div>
+								<div>15:30</div>
+								<div>Návštěva střechy budovy B</div>
+
+								<div>17:30+</div>
+								<div>Deskovky a lanparty v ggLabu</div>
 
 								<div>20:00</div>
 								<div>Budova se zavírá</div>
-
-								<div>21:00</div>
-								<div>Lanparty v ggLabu</div>
 							</S.Agenda>
 						</S.Frame>
 						<S.Frame $width={'320px'}>
@@ -96,11 +96,14 @@ const Programme = () => {
 								<div>8:00</div>
 								<div>Budova se otevírá</div>
 
-								<S.Highlight>13:00</S.Highlight>
+								<S.Highlight>13:30</S.Highlight>
 								<S.Highlight>Konec programování</S.Highlight>
 
-								<div>13:30</div>
+								<div>14:00</div>
 								<div>Prezentace her</div>
+
+								<div>15:30</div>
+								<div>Filmový Kvíz</div>
 
 								<div>16:00</div>
 								<div>Vyhlášení cen</div>
