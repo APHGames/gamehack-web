@@ -11,7 +11,7 @@ import LogoCChaos from '../../../static/img/pages/index/logo_cchaos.png'
 import LogoAPH from '../../../static/img/pages/index/logo_aphgames.svg'
 
 import PartnersCesnet from '../../../static/img/pages/index/sponsors/partners_cesnet.png'
-import PartnersIPR from '../../../static/img/pages/index/sponsors/partners_ipr.png'
+import PartnersSCS from '../../../static/img/pages/index/logo_scs.png'
 import PartnersWarhorse from '../../../static/img/pages/index/sponsors/partners_warhorse.png'
 import PartnersZotac from '../../../static/img/pages/index/sponsors/partners_zotac.png'
 import PartnersVision from '../../../static/img/pages/index/sponsors/partners_visiongame.svg'
@@ -152,10 +152,8 @@ const Sponsors = () => {
 			<S.SectionContainer>
 			<h3>Sponzoři</h3>
 			<S.Logos>
-				<img src={PartnersCesnet} />
-				<img src={PartnersIPR} />
+				<img src={PartnersSCS} />
 				<img src={PartnersWarhorse} />
-				<img src={PartnersZotac} />
 				<PartnersVision />
 			</S.Logos>
 			</S.SectionContainer>
