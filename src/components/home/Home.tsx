@@ -15,6 +15,9 @@ import PartnersSCS from '../../../static/img/pages/index/logo_scs.png'
 import PartnersWarhorse from '../../../static/img/pages/index/sponsors/partners_warhorse.png'
 import PartnersZotac from '../../../static/img/pages/index/sponsors/partners_zotac.png'
 import PartnersVision from '../../../static/img/pages/index/sponsors/partners_visiongame.svg'
+import PartnersCinemax from '../../../static/img/pages/index/cinemax.png'
+import PartnersKodl from '../../../static/img/pages/index/kodl.png'
+
 
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import useWindowSize from '../../hooks/useWindowSize';
@@ -154,6 +157,8 @@ const Sponsors = () => {
 			<S.Logos>
 				<img src={PartnersSCS} />
 				<img src={PartnersWarhorse} />
+				<img src={PartnersCinemax} />
+				<img src={PartnersKodl} />
 				<PartnersVision />
 			</S.Logos>
 			</S.SectionContainer>

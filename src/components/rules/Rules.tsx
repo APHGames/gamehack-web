@@ -44,7 +44,7 @@ export const MainRules = () => (
 					</ul>
 					<h3>Pravidla pro hodnocení</h3>
 					<ul>
-						<li>Hodnocení proběhne celý následující týden po skončení akce na platformě itch.io. Na škále 1-5 budou hodnoceny následující aspekty:</li>
+						<li>Hodnocení proběhne celý následující týden až do úterý 28.11. na platformě itch.io. Na škále 1-5 budou hodnoceny následující aspekty:</li>
 						<ul>
 							<li>Použití témat</li>
 							<li>Použití modifikátorů</li>
